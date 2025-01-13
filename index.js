@@ -5,5 +5,5 @@ const name ="hitank";
 console.log(name)
 
 const city = "Pune";
-const state = "Pune";
+const state = "maharashtra";
 const country = "Pune";
